@@ -8,4 +8,5 @@ The MET website [Demo](https://melnyksergey7.github.io/MET-landing-page/) is a c
 
 - ### Technologies used:
 - #### <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="25" height="25"/> HTML5
-- #### <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="25" height="25"/> SASS 
+- #### <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="25" height="25"/> SASS
+- #### <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="25" height="25"/> JavaScript
